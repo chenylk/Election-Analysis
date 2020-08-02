@@ -16,6 +16,7 @@ Analyzing Election Data With Python
     2. Diana Degette (272,892 Votes) 73.8%
     3. Raymon Anthony Doane (11,606) 3.1%
  * Diana Degette won the election with 272,892 votes which was 73.8% of the total votes. 
+ 
  ![Election_Breakdown](https://github.com/chenylk/Election-Analysis/blob/master/resources/Election_breakdown_terminal.PNG).
  
  
